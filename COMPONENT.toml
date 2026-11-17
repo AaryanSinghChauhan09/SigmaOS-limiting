@@ -3,7 +3,7 @@ name = "SigmaOS-limiting"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "limiting component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
